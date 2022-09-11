@@ -1,0 +1,17 @@
+{
+  "name": "application-of-genetic-algorithm-and-naive-bayes-classifier-in-identifying-spam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exctractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.1.3",
+    "sqlite3": "^5.0.8",
+    "word-list-json": "^0.2.0"
+  }
+}
